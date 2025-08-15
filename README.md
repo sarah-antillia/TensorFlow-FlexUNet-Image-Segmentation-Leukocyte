@@ -373,6 +373,7 @@ python ../../../src/TensorFlowFlexUNetInferencer.py ./train_eval_infer_aug.confi
 <br>
 <hr>
 <b>Enlarged images and masks of 512x512 pixels</b><br>
+<b>rgb_map = (Basophil:blue, Eosinophil:green, Lymphocyte:yellow, Monocyte:cyan, Neutrophil:red)</b>
 
 <table>
 <tr>
